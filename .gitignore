@@ -209,3 +209,4 @@ migrations/
 .venv
 .venv/
 .idea/
+.vscode/
